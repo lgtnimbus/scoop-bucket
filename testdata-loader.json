@@ -1,15 +1,15 @@
 {
-    "version": "0.21.6",
+    "version": "1.0.0",
     "description": "single binary cli for loading synthetic test data into kafka and postgres",
     "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/lgtnimbus/testdata-loader/releases/download/v0.21.6/testdata-loader-v0.21.6-windows-amd64.exe#/testdata-loader.exe",
-            "hash": "a27df841fa6f565986884295f463b17f29ae3afdbf88e658163fe7bf0b0168d3"
+            "url": "https://github.com/lgtnimbus/testdata-loader/releases/download/v1.0.0/testdata-loader-windows-amd64.exe#/testdata-loader.exe",
+            "hash": "50c0c1ae8aff137fc93eb7008ecfebb64e092d98c21b2769ca4f51868eb43e3a"
         },
         "arm64": {
-            "url": "https://github.com/lgtnimbus/testdata-loader/releases/download/v0.21.6/testdata-loader-v0.21.6-windows-amd64.exe#/testdata-loader.exe",
-            "hash": "a27df841fa6f565986884295f463b17f29ae3afdbf88e658163fe7bf0b0168d3"
+            "url": "https://github.com/lgtnimbus/testdata-loader/releases/download/v1.0.0/testdata-loader-windows-arm64.exe#/testdata-loader.exe",
+            "hash": "089a4acb95de27adb1416b32df6c30b12c59ea92b074de56297b3275aa00e132"
         }
     },
     "bin": [
