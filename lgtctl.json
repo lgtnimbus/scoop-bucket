@@ -1,19 +1,19 @@
 {
-    "version": "1.4.3",
+    "version": "1.5.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/lgtnimbus/lgtctl/releases/download/v1.4.3/lgtctl_1.4.3_windows_amd64.tar.gz",
+            "url": "https://github.com/lgtnimbus/lgtctl/releases/download/v1.5.0/lgtctl_1.5.0_windows_amd64.tar.gz",
             "bin": [
                 "lgtctl.exe"
             ],
-            "hash": "ef7caec152bc47f041b79de6286667a717e82b52e08c9a9083b77d66e2a1737f"
+            "hash": "b22c9be29b577dc14143ac14b04f597451e6866c40691938068dcaf4afc6c7d6"
         },
         "arm64": {
-            "url": "https://github.com/lgtnimbus/lgtctl/releases/download/v1.4.3/lgtctl_1.4.3_windows_arm64.tar.gz",
+            "url": "https://github.com/lgtnimbus/lgtctl/releases/download/v1.5.0/lgtctl_1.5.0_windows_arm64.tar.gz",
             "bin": [
                 "lgtctl.exe"
             ],
-            "hash": "7b44b8d56c471fb4354b3a6707ddde4406ab18ad4a99f69f42d903b5c7d9fd6c"
+            "hash": "be725073c05401b741879e83e29f7eb29d65c19aa626a759680e14b8877c92e0"
         }
     }
 }
